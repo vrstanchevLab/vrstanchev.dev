@@ -36,7 +36,18 @@ Join my live streams where I dive deep into:
 Follow me on [Twitch](https://www.twitch.tv/vrstanchev) and [YouTube](https://www.youtube.com/@vrstanchev) to stay updated. 🔔
 
 ---
+### 📺 Watch My Live Stream Below!  
 
+```html
+<iframe  
+  src="https://player.twitch.tv/?channel=vrstanchev&parent=vrstanchev.dev"  
+  height="400"  
+  width="600"  
+  frameborder="0"  
+  allowfullscreen="true">  
+</iframe>  
+
+---
 ## Featured Project 🌟
 
 ### [ASMLab](https://github.com/vrstanchevLab/ASMLab)
