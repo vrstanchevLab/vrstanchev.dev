@@ -40,7 +40,7 @@ Follow me on [Twitch](https://www.twitch.tv/vrstanchev) and [YouTube](https://ww
 <iframe  
   src="https://player.twitch.tv/?channel=vrstanchev&parent=vrstanchev.dev"  
   height="400"  
-  width="600"  
+  width="400"  
   frameborder="0"  
   allowfullscreen="true">  
 </iframe>  
