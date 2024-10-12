@@ -1,0 +1,72 @@
+# Welcome to vrstanchevLab 🌍
+
+Explore the world of coding, live streams, and open-source software. 🚀
+
+---  
+[Home](#) | [About Me](#about-me-) | [Tools](#tools-) | 📣 [Live Stream Schedule](#live-stream-schedule-) | [Featured Project](#featured-project-) | [Support](#support-my-project-) | [Contact](#contact-me-)  
+
+---
+
+## About Me 👤  
+
+Hi, I'm **vrstanchev**, the sole creator and developer behind **vrstanchevLab**. I'm passionate about technology, coding, and open-source software. Through my projects and live streams, I aim to share my journey and expertise with the world. 💻✨  
+
+---
+
+## Tools 🛠️  
+
+- **OS**: iOS (BSD-based) 🍏  
+- **Shell**: a-Shell (classic UNIX shell) 🐚  
+- **Interpreter**: /bin/sh 📜  
+- **Editor**: Vim ✍️  
+
+---
+
+## Live Stream Schedule 📅  
+
+Join my live streams where I dive deep into:  
+
+- **RISC-V Assembly Language** 🔍  
+- **Open-source tools on iOS and Linux** 📱🐧  
+- **Vim, terminal utilities, and more** 🖥️  
+
+**🕖 Stream Time:** 7 PM EEST  
+Follow me on [Twitch](https://www.twitch.tv/vrstanchev) and [YouTube](https://www.youtube.com/@vrstanchev) to stay updated. 🔔  
+
+---
+
+### 📺 Watch My Live Stream Below!  
+
+<iframe  
+  src="https://player.twitch.tv/?channel=vrstanchev&parent=vrstanchev.dev"  
+  height="400"  
+  width="600"  
+  frameborder="0"  
+  allowfullscreen="true">  
+</iframe>  
+
+---
+
+## Featured Project 🌟  
+
+### [ASMLab](https://github.com/vrstanchevLab/ASMLab)  
+A personal project focused on learning and experimenting with assembly languages, including RISC-V. It's my space to explore low-level programming and share knowledge with others. 📚  
+
+---
+
+## Support My Project ❤️  
+
+If you'd like to support my work, you can donate by scanning the QR code below:  
+
+![Support QR Code](qr.png)  
+
+Thank you for your support! 🙏  
+
+---
+
+## Contact Me 📬  
+
+Want to get in touch or collaborate? Feel free to reach out:  
+
+- **Email**: [vrstanchev@gmail.com](mailto:vrstanchev@gmail.com)  
+- **GitHub**: [vrstanchevLab](https://github.com/vrstanchevLab) 🔗  
