@@ -1,5 +1,3 @@
-# Welcome to vrstanchevLab 🌍
-
 Explore the world of coding, live streams, and open-source software. 🚀
 
 ---  
