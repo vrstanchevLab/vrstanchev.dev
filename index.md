@@ -1,8 +1,8 @@
 # Welcome to vrstanchevLab 🌍
 
-Explore the world of coding, live streams, and open-source software. 🚀
+Explore the world of coding, live streams, and open-source software. 🚀  
 ---  
-[Home](#) | [About Me](#about-me-) | [Tools](#tools-) | 📣 [Live Stream Schedule](#live-stream-schedule-) | [Featured Project](#featured-project-) | [Support](#support-my-project-) | [Contact](#contact-me-)  
+[Home](#) | [About Me](#about-me) | [Tools](#tools) | 📣 [Live Stream Schedule](#live-stream-schedule) | [Featured Project](#featured-project) | [Support](#support-my-project) | [Contact](#contact-me)  
 
 ---
 
@@ -63,10 +63,8 @@ Thank you for your support! 🙏
 
 ---
 
+This site uses the **Minima** theme with a dark mode skin. 🌑  
 
-
-
-This site uses the **Minima** theme with a dark mode skin. 🌑
 ## Contact Me 📬  
 
 Want to get in touch or collaborate? Feel free to reach out:  
