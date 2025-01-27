@@ -2,7 +2,7 @@
 
 Explore the world of coding, live streams, and open-source software. 🚀  
 ---  
-[Home](#) | [About Me](#about-me) | [Tools](#tools) | 📣 [Live Stream Schedule](#live-stream-schedule) | [Featured Project](#featured-project) | [Support](#support-my-project) | [Contact](#contact-me)  
+[Home](#) | [About Me](#about-me) | [Tools](#tools-) | 📣 [Live Stream Schedule](#live-stream-schedule) | [Featured Project](#featured-project) | [Support](#support-my-project) | [Contact](#contact-me)  
 
 ---
 
@@ -69,5 +69,6 @@ This site uses the **Minima** theme with a dark mode skin. 🌑
 
 Want to get in touch or collaborate? Feel free to reach out:  
 
-- **Email**: [vrstanchev@gmail.com](mailto:vrstanchev@gmail.com)  
+- **Email**: [hello@vrstanchev.dev](mailto:hello@vrstanchev.dev)  
+
 - **GitHub**: [vrstanchevLab](https://github.com/vrstanchevLab) 🔗  
