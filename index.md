@@ -2,7 +2,7 @@
 
 Explore the world of coding, live streams, and open-source software. 🚀  
 ---  
-[Home](#) | [About Me](#about-me) | [Tools](#Tools) | 📣 [Live Stream Schedule](#live-stream-schedule) | [Featured Project](#featured-project) | [Support](#support-my-project) | [Contact](#contact-me)  
+[Home](#) | [About Me](#about-me) | [Tools](#tools-) | 📣 [Live Stream Schedule](#live-stream-schedule) | [Featured Project](#featured-project) | [Support](#support-my-project) | [Contact](#contact-me)  
 
 ---
 
