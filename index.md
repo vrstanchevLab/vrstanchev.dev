@@ -70,5 +70,4 @@ This site uses the **Minima** theme with a dark mode skin. 🌑
 Want to get in touch or collaborate? Feel free to reach out:  
 
 - **Email**: [hello@vrstanchev.dev](mailto:hello@vrstanchev.dev)  
-
 - **GitHub**: [vrstanchevLab](https://github.com/vrstanchevLab) 🔗  
