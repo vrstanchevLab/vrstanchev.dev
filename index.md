@@ -1,73 +1,82 @@
-# Welcome to vrstanchevLab 🌍
+# Welcome to vrstanchevLab 🌍  
 
-Explore the world of coding, live streams, and open-source software. 🚀  
----  
-[Home](#welcome-to-vrstanchevlab-) | [About Me](#about-me-) | [Tools](#tools-) | [Live Stream Schedule](#live-stream-schedule-) | [Featured Project](#featured-project-) | [Support](#support-my-project-) | [Contact](#contact-me-)
+Explore cutting-edge **coding**, **live streams**, and **open-source software**. 🚀  
+
+---
+
+[Home](#welcome-to-vrstanchevlab-) | [About Me](#about-me-) | [Tools](#tools-) | [Live Stream Schedule](#live-stream-schedule-) | [Featured Project](#featured-project-) | [Support](#support-my-project-) | [Contact](#contact-me-)  
 
 ---
 
 ## About Me 👤  
 
-Hi, I'm **vrstanchev**, the sole creator and developer behind **vrstanchevLab**. I'm passionate about technology, coding, and open-source software. Through my projects and live streams, I aim to share my journey and expertise with the world. 💻✨  
+Hi, I'm **vrstanchev**, the creator and developer behind **vrstanchevLab**. I'm passionate about **technology**, **coding**, and **open-source software**. Through my projects and live streams, I aim to share my journey and expertise with the world.  
+
+### Why Follow Me?  
+- Expertise in **RISC-V Assembly Language**.  
+- Experience with **BSD-based iOS development** and **Linux tools**.  
+- Focused on creating impactful, **open-source projects**.  
 
 ---
 
 ## Tools 🛠️  
 
-- **OS**: iOS (BSD-based) 🍏  
-- **Shell**: a-Shell (classic UNIX shell) 🐚  
-- **Interpreter**: /bin/sh 📜  
-- **Editor**: Vim ✍️  
+- **Operating System**: iOS (BSD-based)  
+- **Shell**: a-Shell (classic UNIX shell)  
+- **Interpreter**: `/bin/sh`  
+- **Editor**: Vim  
 
 ---
 
 ## Live Stream Schedule 📅  
 
-Join my live streams where I dive deep into:  
-
-- **RISC-V Assembly Language** 🔍  
-- **Open-source tools on iOS and Linux** 📱🐧  
-- **Vim, terminal utilities, and more** 🖥️  
+Join my live streams to explore topics like:  
+- **RISC-V Assembly Language** development.  
+- Using **open-source tools** on iOS and Linux.  
+- Advanced **Vim** usage and terminal utilities.  
 
 **🕖 Stream Time:** 7 PM EEST  
-Follow me on [Twitch](https://www.twitch.tv/vrstanchev) and [YouTube](https://www.youtube.com/@vrstanchev) to stay updated. 🔔  
 
----
-
-### 📺 Watch My Live Stream Below!  
-
-<iframe  
-  src="https://player.twitch.tv/?channel=vrstanchev&parent=vrstanchev.dev"  
-  height="400"  
-  width="400"  
-  frameborder="0"  
-  allowfullscreen="true">  
-</iframe>  
+Follow me on [Twitch](https://www.twitch.tv/vrstanchev) and [YouTube](https://www.youtube.com/@vrstanchev) to stay updated.  
 
 ---
 
 ## Featured Project 🌟  
 
 ### [ASMLab](https://github.com/vrstanchevLab/ASMLab)  
-A personal project focused on learning and experimenting with assembly languages, including RISC-V. It's my space to explore low-level programming and share knowledge with others. 📚  
+A personal project focused on learning and experimenting with **assembly languages**, including **RISC-V**.  
+- Explore **low-level programming** concepts.  
+- Access helpful resources and code examples.  
+
+**GitHub:** [vrstanchevLab/ASMLab](https://github.com/vrstanchevLab/ASMLab)  
 
 ---
 
 ## Support My Project ❤️  
 
-If you'd like to support my work, you can donate by scanning the QR code below:  
+Support my work and help me continue building amazing projects!  
 
 ![Support QR Code](qr.png)  
 
-Thank you for your support! 🙏  
+Thank you for your generosity. 🙏  
 
 ---
 
-This site uses the **Minima** theme with a dark mode skin. 🌑  
-
 ## Contact Me 📬  
 
-Want to get in touch or collaborate? Feel free to reach out:  
-
+Interested in collaborating or have questions? Reach out here:  
 - **Email**: [hello@vrstanchev.dev](mailto:hello@vrstanchev.dev)  
-- **GitHub**: [vrstanchevLab](https://github.com/vrstanchevLab) 🔗  
+- **GitHub**: [vrstanchevLab](https://github.com/vrstanchevLab)  
+
+---
+
+### SEO Keywords  
+- RISC-V Assembly Language  
+- Open-source software development  
+- iOS BSD tools  
+- Live coding streams  
+- vrstanchevLab projects  
+
+---
+
+**Note**: This site uses the **Minima** theme with a dark mode skin. 🌑  
