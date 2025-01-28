@@ -70,13 +70,4 @@ Interested in collaborating or have questions? Reach out here:
 
 ---
 
-### SEO Keywords  
-- RISC-V Assembly Language  
-- Open-source software development  
-- iOS BSD tools  
-- Live coding streams  
-- vrstanchevLab projects  
-
----
-
-**Note**: This site uses the **Minima** theme with a dark mode skin. 🌑  
+ 
