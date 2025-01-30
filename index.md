@@ -75,9 +75,10 @@ Let’s stay connected across all platforms and **grow the community**:
 - **Twitter/X**: [@vrstanchev](https://twitter.com/vrstanchev)  
 - **Instagram**: [@vrstanchev](https://www.instagram.com/vrstanchev/)  
 - **Kick**: [vrstanchev](https://kick.com/vrstanchev)  
+- **YouTube**: [@vrstanchev](https://www.youtube.com/@vrstanchev)  
 - **Patreon**: [Support Me](https://www.patreon.com/vrstanchev)  
 
-Let’s make some noise on social! 🚀 **Join the conversation** and let’s make this viral. 🔥
+Follow me everywhere, and let's **build a global community** of open-source enthusiasts! 🌍🚀  
 
 ---
 
