@@ -4,7 +4,7 @@ Explore cutting-edge **coding**, **live streams**, and **open-source software**.
 
 ---
 
-[Home](#welcome-to-vrstanchevlab-) | [About Me](#about-me-) | [Tools](#tools-) | [Live Stream Schedule](#live-stream-schedule-) | [Featured Project](#featured-project-) | [Support](#support-my-project-) | [Contact](#contact-me-)  
+[Home](#welcome-to-vrstanchevlab-) | [About Me](#about-me-) | [Tools](#tools-) | [Live Stream Schedule](#live-stream-schedule-) | [Featured Project](#featured-project-) | [Support](#support-my-project-) | [Social Networks](#social-networks-) | [Contact](#contact-me-)  
 
 ---
 
@@ -62,12 +62,20 @@ Thank you for your generosity. 🙏
 
 ---
 
+## Social Networks 📢  
+
+Stay connected and follow me on social media:  
+- **Twitter/X**: [@vrstanchev](https://twitter.com/vrstanchev)  
+- **Instagram**: [@vrstanchev](https://www.instagram.com/vrstanchev/)  
+- **Kick**: [vrstanchev](https://kick.com/vrstanchev)  
+- **Patreon**: [Support Me](https://www.patreon.com/vrstanchev)  
+
+Let’s grow the community together! 🚀  
+
+---
+
 ## Contact Me 📬  
 
 Interested in collaborating or have questions? Reach out here:  
 - **Email**: [hello@vrstanchev.dev](mailto:hello@vrstanchev.dev)  
 - **GitHub**: [vrstanchevLab](https://github.com/vrstanchevLab)  
-
----
-
- 
