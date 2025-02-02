@@ -5,7 +5,7 @@ Join me in pushing the boundaries of technology—let’s break new ground toget
 
 ---
 
-[Home](#welcome-to-vrstanchevlab-) | [About Me](#about-me-) | [Tools](#tools-) | [Live Stream Schedule](#live-stream-schedule-) | [Featured Project](#featured-project-) | [Support](#support-my-project-) | [Social Networks](#social-networks-) | [Contact](#contact-me-)  
+[Home](#welcome-to-vrstanchevlab-) | [About Me](#about-me-) | [Tools](#tools-) | [Live Stream Schedule](#live-stream-schedule-) | [Featured Project](#featured-project-) | [Support](#support-my-project-) | [Live Stream & Videos](#live-stream--videos-) | [Social Networks](#social-networks-) | [Contact](#contact-me-)  
 
 ---
 
@@ -69,6 +69,34 @@ Every bit helps. Let's **change the world** together! 🙏
 
 ---
 
+## Live Stream & Videos 🎥  
+
+### 🔴 Live on Twitch  
+[![Twitch Player](https://static-cdn.jtvnw.net/jtv_user_pictures/vrstanchev-profile_image.png)](https://www.twitch.tv/vrstanchev)  
+▶ **[Watch Live on Twitch](https://www.twitch.tv/vrstanchev)**  
+
+<iframe 
+    src="https://player.twitch.tv/?channel=vrstanchev&parent=vrstanchev.dev" 
+    height="400" 
+    width="700" 
+    allowfullscreen>
+</iframe>  
+
+---
+
+### 📺 Latest YouTube Videos  
+[![YouTube Feed](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/@vrstanchev)  
+▶ **[Watch on YouTube](https://www.youtube.com/@vrstanchev)**  
+
+<iframe 
+    width="700" 
+    height="400" 
+    src="https://www.youtube.com/embed?listType=user_uploads&list=vrstanchev" 
+    allowfullscreen>
+</iframe>  
+
+---
+
 ## Social Networks 📢  
 
 Let’s stay connected across all platforms and **grow the community**:  
@@ -90,4 +118,4 @@ Got an idea, collaboration in mind, or just want to chat? Reach out and let’s 
 
 ---
 
-Ready to go viral? **Smash that follow button**, **share** with your friends, and let’s change the world together! 🌍🚀🔥
+Ready to go viral? **Smash that follow button**, **share** with your friends, and let’s change the world together! 🌍🚀🔥  
