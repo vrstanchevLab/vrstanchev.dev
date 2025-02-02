@@ -39,9 +39,11 @@ I go live every **night** to explore:
 - Using **open-source tools** to break barriers in **iOS** and **Linux**  
 - Advanced **Vim tricks**, **terminal hacks**, and more!  
 
-**🕖 Stream Time:** 7 PM EEST – **Don’t miss it!**
+**🕖 Stream Time:** 7 PM EEST – **Don’t miss it!**  
 
-Follow me on [Twitch](https://www.twitch.tv/vrstanchev) and [YouTube](https://www.youtube.com/@vrstanchev) to join the community and never miss an epic stream!  
+📺 **Watch my live streams on:**  
+- **[Twitch](https://www.twitch.tv/vrstanchev)**  
+- **[YouTube](https://www.youtube.com/@vrstanchev/live)**  
 
 ---
 
@@ -54,7 +56,7 @@ This is my **baby**—a project designed for anyone who wants to **learn**, **ex
 - Access real-world **code examples** and helpful resources.  
 - Start **building** the future today.  
 
-**GitHub**: [vrstanchevLab/ASMLab](https://github.com/vrstanchevLab/ASMLab)  
+🔗 **GitHub**: [vrstanchevLab/ASMLab](https://github.com/vrstanchevLab/ASMLab)  
 
 ---
 
@@ -71,35 +73,15 @@ Every bit helps. Let's **change the world** together! 🙏
 
 ## Live Stream & Videos 🎥  
 
-### 🔴 Live on Twitch  
+### **🔴 Watch Me Live on Twitch!**  
 [![Twitch Player](https://static-cdn.jtvnw.net/jtv_user_pictures/vrstanchev-profile_image.png)](https://www.twitch.tv/vrstanchev)  
 ▶ **[Watch Live on Twitch](https://www.twitch.tv/vrstanchev)**  
 
-<div align="center">
-    <iframe 
-        src="https://player.twitch.tv/?channel=vrstanchev&parent=vrstanchev.dev" 
-        height="400" 
-        width="700" 
-        frameborder="0"
-        allowfullscreen>
-    </iframe>
-</div>  
-
 ---
 
-### 📺 Latest YouTube Videos  
-[![YouTube Feed](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/@vrstanchev)  
-▶ **[Watch on YouTube](https://www.youtube.com/@vrstanchev)**  
-
-<div align="center">
-    <iframe 
-        width="700" 
-        height="400" 
-        src="https://www.youtube.com/embed?listType=user_uploads&list=vrstanchev" 
-        frameborder="0"
-        allowfullscreen>
-    </iframe>
-</div>  
+### **📺 Latest YouTube Videos**  
+[![Latest Video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/@vrstanchev/videos)  
+▶ **[Watch More on YouTube](https://www.youtube.com/@vrstanchev/videos)**  
 
 ---
 
@@ -124,4 +106,4 @@ Got an idea, collaboration in mind, or just want to chat? Reach out and let’s 
 
 ---
 
-Ready to go viral? **Smash that follow button**, **share** with your friends, and let’s change the world together! 🌍🚀🔥  
+🔥 **Smash that follow button**, **share with your friends**, and let’s change the world together! 🌍🚀🔥  
