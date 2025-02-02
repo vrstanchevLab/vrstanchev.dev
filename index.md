@@ -75,12 +75,15 @@ Every bit helps. Let's **change the world** together! 🙏
 [![Twitch Player](https://static-cdn.jtvnw.net/jtv_user_pictures/vrstanchev-profile_image.png)](https://www.twitch.tv/vrstanchev)  
 ▶ **[Watch Live on Twitch](https://www.twitch.tv/vrstanchev)**  
 
-<iframe 
-    src="https://player.twitch.tv/?channel=vrstanchev&parent=vrstanchev.dev" 
-    height="400" 
-    width="700" 
-    allowfullscreen>
-</iframe>  
+<div align="center">
+    <iframe 
+        src="https://player.twitch.tv/?channel=vrstanchev&parent=vrstanchev.dev" 
+        height="400" 
+        width="700" 
+        frameborder="0"
+        allowfullscreen>
+    </iframe>
+</div>  
 
 ---
 
@@ -88,12 +91,15 @@ Every bit helps. Let's **change the world** together! 🙏
 [![YouTube Feed](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/@vrstanchev)  
 ▶ **[Watch on YouTube](https://www.youtube.com/@vrstanchev)**  
 
-<iframe 
-    width="700" 
-    height="400" 
-    src="https://www.youtube.com/embed?listType=user_uploads&list=vrstanchev" 
-    allowfullscreen>
-</iframe>  
+<div align="center">
+    <iframe 
+        width="700" 
+        height="400" 
+        src="https://www.youtube.com/embed?listType=user_uploads&list=vrstanchev" 
+        frameborder="0"
+        allowfullscreen>
+    </iframe>
+</div>  
 
 ---
 
