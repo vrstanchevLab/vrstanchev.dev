@@ -71,16 +71,14 @@ Every bit counts—let’s **change the world** together! 🙌
 
 ### 🔴 **Watch Me Live on Twitch!**  
 <iframe
-  src="https://player.twitch.tv/?channel=vrstanchev"
-  height="500"
-  width="100%"
-  frameborder="0"
-  allowfullscreen="true">
-</iframe>  
+    src="https://player.twitch.tv/?channel=vrstanchev&parent=vrstanchev.dev&muted=true"
+    height="720"
+    width="1280"
+    allowfullscreen>
+</iframe>
 
-### 📺 **Latest YouTube Playlist**  
-[![Latest YouTube Playlist](https://img.youtube.com/vi/PLNrGHK9O9DcGAivr_fH8Hxe3PMduP7pnN/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLNrGHK9O9DcGAivr_fH8Hxe3PMduP7pnN)  
-▶ **[Watch on YouTube Playlist](https://www.youtube.com/playlist?list=PLNrGHK9O9DcGAivr_fH8Hxe3PMduP7pnN)**  
+### 📺 **Latest YouTube Video**  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iWKQJDJSvQ0?si=v5JG4RbmJas8en1T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
