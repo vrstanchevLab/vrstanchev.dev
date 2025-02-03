@@ -4,7 +4,7 @@
 Let's push the boundaries of tech **together**!  
 
 ---
-
+<link rel="icon" href="vrs.ico" type="image/x-icon">
 ## 📌 Navigation  
 [Home](#welcome-to-vrstanchevlab-) | [About](#about-me-) | [Tools](#tools-) | [Live Stream](#live-stream-schedule-)  
 [ASMLab](#featured-project-) | [Support](#support-my-project-) | [Videos](#live-stream--videos-) | [Socials](#social-networks-) | [Contact](#contact-me-)  
