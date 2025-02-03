@@ -69,29 +69,27 @@ Every bit counts—let’s **change the world** together! 🙌
 
 ## 🎥 Live Streams & Videos  
 
-### 🔴 **Watch Me Live on Twitch!**
+### 🔴 **Watch Me Live on Twitch!**  
 
-<div style="display: flex; justify-content: space-between;">
-    <!-- Twitch Player -->
-    <iframe
-        src="https://player.twitch.tv/?channel=vrstanchev&muted=true&parent=vrstanchev.dev"
-        height="720"
-        width="640"
-        allowfullscreen>
-    </iframe>
+<iframe
+    src="https://player.twitch.tv/?channel=vrstanchev&muted=true&parent=vrstanchev.dev"
+    height="720"
+    width="640"
+    allowfullscreen>
+</iframe>
 
-    <!-- YouTube Video -->
-    <iframe
-        width="640"
-        height="360"
-        src="https://www.youtube.com/embed/iWKQJDJSvQ0?si=v5JG4RbmJas8en1T"
-        title="YouTube video player"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        referrerpolicy="strict-origin-when-cross-origin"
-        allowfullscreen>
-    </iframe>
-</div>
+### 📺 **Latest YouTube Video**  
+
+<iframe
+    width="640"
+    height="360"
+    src="https://www.youtube.com/embed/iWKQJDJSvQ0?si=v5JG4RbmJas8en1T"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+</iframe>
 
 ---
 
@@ -116,4 +114,4 @@ Got an idea? Collaboration? Let’s make it happen:
 
 ---
 
-🔥 **Follow, share & let’s code the future!** 🚀🌍🔥  
+🔥 **Follow, share & let’s code the future!** 🚀🌍🔥
