@@ -1,109 +1,103 @@
 # Welcome to **vrstanchevLab** 🌍🔥  
 
-Get ready for **cutting-edge coding**, epic **live streams**, and next-level **open-source software**. 🚀  
-Join me in pushing the boundaries of technology—let’s break new ground together!  
+🚀 Dive into **cutting-edge coding**, epic **live streams**, and game-changing **open-source projects**.  
+Let's push the boundaries of tech **together**!  
 
 ---
 
-[Home](#welcome-to-vrstanchevlab-) | [About Me](#about-me-) | [Tools](#tools-) | [Live Stream Schedule](#live-stream-schedule-) | [Featured Project](#featured-project-) | [Support](#support-my-project-) | [Live Stream & Videos](#live-stream--videos-) | [Social Networks](#social-networks-) | [Contact](#contact-me-)  
+## 📌 Navigation  
+[Home](#welcome-to-vrstanchevlab-) | [About](#about-me-) | [Tools](#tools-) | [Live Stream](#live-stream-schedule-)  
+[ASMLab](#featured-project-) | [Support](#support-my-project-) | [Videos](#live-stream--videos-) | [Socials](#social-networks-) | [Contact](#contact-me-)  
 
 ---
 
-## About Me 👤  
+## 👤 About Me  
 
-Hey, I'm **vrstanchev** – the **creator**, the **coder**, and the driving force behind **vrstanchevLab**. If you're into **tech**, **coding**, and making the world a better place with **open-source software**, you're in the right spot.  
+Hey, I’m **vrstanchev** – a **low-level programming enthusiast**, **open-source builder**, and **live streamer**.  
 
-I'm on a mission to revolutionize **RISC-V assembly**, master **iOS development on BSD** 📱, and explore the power of **Linux** and **open-source tools**.  
-
-### Why Follow Me?  
-- Unlock the secrets of **RISC-V Assembly Language** and **low-level programming**.  
-- Discover how to **hack the limits of iOS development** using BSD.  
-- Join me in building **open-source projects** that **actually matter**.  
+### 🔥 What I Do  
+- Mastering **RISC-V Assembly** & **iOS development on BSD**  
+- Exploring **Linux, Vim**, and **UNIX tools**  
+- Building **open-source projects** that **matter**  
 
 ---
 
-## Tools 🛠️  
+## 🛠 Tools  
 
-These are the tools I use to get things done:  
-- **Operating System**: iOS (BSD-based) 💻  
-- **Shell**: a-Shell (your classic UNIX shell, reimagined)  
+My essential setup:  
+- **OS**: iOS (BSD-based) 💻  
+- **Shell**: a-Shell (UNIX reimagined)  
 - **Interpreter**: `/bin/sh` 🔥  
-- **Editor**: Vim (because real programmers don’t need a mouse)  
+- **Editor**: Vim (because real devs don’t need a mouse)  
 
 ---
 
-## Live Stream Schedule 📅  
+## 📅 Live Stream Schedule  
 
-I go live every **night** to explore:  
-- **RISC-V Assembly** development from scratch 🚀  
-- Using **open-source tools** to break barriers in **iOS** and **Linux**  
-- Advanced **Vim tricks**, **terminal hacks**, and more!  
+I go live **nightly at 7 PM EEST** covering:  
+- **RISC-V Assembly** development 🚀  
+- **Open-source tools** for iOS & Linux  
+- **Advanced Vim tricks**, **terminal hacks**, and more  
 
-**🕖 Stream Time:** 7 PM EEST – **Don’t miss it!**  
-
-📺 **Watch my live streams on:**  
-- **[Twitch](https://www.twitch.tv/vrstanchev)**  
-- **[YouTube](https://www.youtube.com/@vrstanchev/live)**  
+📺 **Watch me on:**  
+- 🎮 [Twitch](https://www.twitch.tv/vrstanchev)  
+- 📹 [YouTube Live](https://www.youtube.com/@vrstanchev/live)  
 
 ---
 
-## Featured Project 🌟  
+## 🌟 Featured Project: [ASMLab](https://github.com/vrstanchevLab/ASMLab)  
 
-### [ASMLab](https://github.com/vrstanchevLab/ASMLab)  
-This is my **baby**—a project designed for anyone who wants to **learn**, **experiment**, and **get their hands dirty** with **assembly languages** like **RISC-V**.  
-
-- Dive deep into **low-level programming** concepts.  
-- Access real-world **code examples** and helpful resources.  
-- Start **building** the future today.  
+A **hands-on assembly learning platform** built for real-world **low-level programming**.  
+- 📖 Deep-dive into **RISC-V assembly**  
+- 🛠 Real-world **code examples** & resources  
+- 🚀 Build the **future of assembly programming**  
 
 🔗 **GitHub**: [vrstanchevLab/ASMLab](https://github.com/vrstanchevLab/ASMLab)  
 
 ---
 
-## Support My Project ❤️  
+## ❤️ Support My Work  
 
-Help me keep this **open-source revolution** going strong!  
-If you believe in the power of **open-source** and want to **support** groundbreaking projects like this, here's your chance.  
+Help fuel the **open-source revolution**!  
+Your support keeps groundbreaking projects alive.  
 
 ![Support QR Code](qr.png)  
 
-Every bit helps. Let's **change the world** together! 🙏  
+Every bit counts—let’s **change the world** together! 🙌  
 
 ---
 
-## Live Stream & Videos 🎥  
+## 🎥 Live Streams & Videos  
 
-### **🔴 Watch Me Live on Twitch!**  
+### 🔴 **Watch Me Live on Twitch!**  
 [![Twitch Player](https://static-cdn.jtvnw.net/jtv_user_pictures/vrstanchev-profile_image.png)](https://www.twitch.tv/vrstanchev)  
-▶ **[Watch Live on Twitch](https://www.twitch.tv/vrstanchev)**  
+▶ **[Join the Twitch Stream](https://www.twitch.tv/vrstanchev)**  
 
----
-
-### **📺 Latest YouTube Videos**  
+### 📺 **Latest YouTube Videos**  
 [![Latest Video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/@vrstanchev/videos)  
-▶ **[Watch More on YouTube](https://www.youtube.com/@vrstanchev/videos)**  
+▶ **[Watch on YouTube](https://www.youtube.com/@vrstanchev/videos)**  
 
 ---
 
-## Social Networks 📢  
+## 📢 Social Networks  
 
-Let’s stay connected across all platforms and **grow the community**:  
-- **Twitter/X**: [@vrstanchev](https://twitter.com/vrstanchev)  
-- **Instagram**: [@vrstanchev](https://www.instagram.com/vrstanchev/)  
-- **Kick**: [vrstanchev](https://kick.com/vrstanchev)  
-- **YouTube**: [@vrstanchev](https://www.youtube.com/@vrstanchev)  
-- **Patreon**: [Support Me](https://www.patreon.com/vrstanchev)  
+Stay connected & **grow the community**:  
+- 🐦 **Twitter/X**: [@vrstanchev](https://twitter.com/vrstanchev)  
+- 📸 **Instagram**: [@vrstanchev](https://www.instagram.com/vrstanchev/)  
+- 🎮 **Kick**: [vrstanchev](https://kick.com/vrstanchev)  
+- 🎥 **YouTube**: [@vrstanchev](https://www.youtube.com/@vrstanchev)  
+- ❤️ **Patreon**: [Support Me](https://www.patreon.com/vrstanchev)  
 
-Follow me everywhere, and let's **build a global community** of open-source enthusiasts! 🌍🚀  
-
----
-
-## Contact Me 📬  
-
-Got an idea, collaboration in mind, or just want to chat? Reach out and let’s **make things happen**:  
-- **Email**: [hello@vrstanchev.dev](mailto:hello@vrstanchev.dev)  
-- **GitHub**: [vrstanchevLab](https://github.com/vrstanchevLab)  
+🚀 Let’s **build a global open-source movement**!  
 
 ---
 
-🔥 **Smash that follow button**, **share with your friends**, and let’s change the world together! 🌍🚀🔥  
+## 📬 Contact  
+
+Got an idea? Collaboration? Let’s make it happen:  
+- 📧 **Email**: [hello@vrstanchev.dev](mailto:hello@vrstanchev.dev)  
+- 🛠 **GitHub**: [vrstanchevLab](https://github.com/vrstanchevLab)  
+
+---
+
+🔥 **Follow, share & let’s code the future!** 🚀🌍🔥  
