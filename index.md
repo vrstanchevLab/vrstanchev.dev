@@ -61,7 +61,7 @@ I go live **nightly at 7 PM EEST** covering:
 <iframe
     width="640"
     height="360"
-    src="https://www.youtube.com/embed/iWKQJDJSvQ0?si=v5JG4RbmJas8en1T"
+    src="https://www.youtube.com/watch?v=iWKQJDJSvQ0&list=PLNrGHK9O9DcGAivr_fH8Hxe3PMduP7pnN&index=7"
     title="YouTube video player"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
