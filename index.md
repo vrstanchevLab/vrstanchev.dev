@@ -45,28 +45,6 @@ I go live **nightly at 7 PM EEST** covering:
 
 ---
 
-## 🌟 Featured Project: [ASMLab](https://github.com/vrstanchevLab/ASMLab)  
-
-A **hands-on assembly learning platform** built for real-world **low-level programming**.  
-- 📖 Deep-dive into **RISC-V assembly**  
-- 🛠 Real-world **code examples** & resources  
-- 🚀 Build the **future of assembly programming**  
-
-🔗 **GitHub**: [vrstanchevLab/ASMLab](https://github.com/vrstanchevLab/ASMLab)  
-
----
-
-## ❤️ Support My Work  
-
-Help fuel the **open-source revolution**!  
-Your support keeps groundbreaking projects alive.  
-
-![Support QR Code](qr.png)  
-
-Every bit counts—let’s **change the world** together! 🙌  
-
----
-
 ## 🎥 Live Streams & Videos  
 
 ### 🔴 **Watch Me Live on Twitch!**  
@@ -90,6 +68,28 @@ Every bit counts—let’s **change the world** together! 🙌
     referrerpolicy="strict-origin-when-cross-origin"
     allowfullscreen>
 </iframe>
+
+---
+
+## ❤️ Support My Work  
+
+Help fuel the **open-source revolution**!  
+Your support keeps groundbreaking projects alive.  
+
+![Support QR Code](qr.png)  
+
+Every bit counts—let’s **change the world** together! 🙌  
+
+---
+
+## 🌟 Featured Project: [ASMLab](https://github.com/vrstanchevLab/ASMLab)  
+
+A **hands-on assembly learning platform** built for real-world **low-level programming**.  
+- 📖 Deep-dive into **RISC-V assembly**  
+- 🛠 Real-world **code examples** & resources  
+- 🚀 Build the **future of assembly programming**  
+
+🔗 **GitHub**: [vrstanchevLab/ASMLab](https://github.com/vrstanchevLab/ASMLab)  
 
 ---
 
