@@ -78,7 +78,8 @@ Every bit counts—let’s **change the world** together! 🙌
   allowfullscreen="true">
 </iframe>  
 
-### 📺 **Latest YouTube Videos**  
+### 📺 **Latest YouTube Playlist**  
+[![Latest YouTube Playlist](https://img.youtube.com/vi/PLNrGHK9O9DcGAivr_fH8Hxe3PMduP7pnN/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLNrGHK9O9DcGAivr_fH8Hxe3PMduP7pnN)  
 ▶ **[Watch on YouTube Playlist](https://www.youtube.com/playlist?list=PLNrGHK9O9DcGAivr_fH8Hxe3PMduP7pnN)**  
 
 ---
