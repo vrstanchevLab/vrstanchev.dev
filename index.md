@@ -70,10 +70,16 @@ Every bit counts—let’s **change the world** together! 🙌
 ## 🎥 Live Streams & Videos  
 
 ### 🔴 **Watch Me Live on Twitch!**  
-▶ **[Join the Twitch Stream](https://www.twitch.tv/vrstanchev)**  
+<iframe
+  src="https://player.twitch.tv/?channel=vrstanchev"
+  height="500"
+  width="100%"
+  frameborder="0"
+  allowfullscreen="true">
+</iframe>  
 
 ### 📺 **Latest YouTube Videos**  
-▶ **[Watch on YouTube](https://www.youtube.com/@vrstanchev/videos)**  
+▶ **[Watch on YouTube Playlist](https://www.youtube.com/playlist?list=PLNrGHK9O9DcGAivr_fH8Hxe3PMduP7pnN)**  
 
 ---
 
