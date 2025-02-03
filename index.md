@@ -73,7 +73,7 @@ Every bit counts—let’s **change the world** together! 🙌
 
 <iframe
     src="https://player.twitch.tv/?channel=vrstanchev&muted=true&parent=vrstanchev.dev"
-    height="720"
+    height="360"
     width="640"
     allowfullscreen>
 </iframe>
