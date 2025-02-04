@@ -4,7 +4,9 @@
 Let's push the boundaries of tech **together**!  
 
 ---
-![Favicon](vrs.ico)
+<head>
+  <link rel="icon" href="vrs.ico" type="image/x-icon">
+</head>
 
 
 ## 📌 Navigation  
