@@ -18,6 +18,7 @@ Let's push the boundaries of tech **together**!
 ## 👤 About Me  
 
 Hey, I’m **vrstanchev** – a **low-level programming enthusiast**, **open-source builder**, and **live streamer**.  
+![vrs](vrs.jpg)
 
 ### 🔥 What I Do  
 - Mastering **RISC-V Assembly** & **iOS development on BSD**  
