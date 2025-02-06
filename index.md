@@ -10,16 +10,7 @@ Let's push the boundaries of tech **together**!
 
 
 ## 📌 Navigation  
-- [🏠 Home](#welcome-to-vrstanchevlab-)  
-- [👤 About](#-about-me-)  
-- [🛠 Tools](#-tools-)  
-- [📅 Live Stream](#-live-stream-schedule-)  
-- [📊 Top Languages](#-top-languages-)  
-- [🌟 ASMLab](#-featured-project-)  
-- [❤️ Support](#-support-my-work-)  
-- [🎥 Videos](#-live-streams--videos-)  
-- [📢 Socials](#-social-networks-)  
-- [📬 Contact](#-contact-)  
+[🏠 Home](#welcome-to-vrstanchevlab-) | [👤 About](#-about-me-) | [🛠 Tools](#-tools) | [📅 Live Stream](#-live-stream-schedule) | [📊 Top Languages](#-top-languages) | [🌟 ASMLab](#-featured-project-) | [❤️ Support](#-support-my-work-) |[🎥 Videos](#-live-streams--videos) | [📢 Socials](#-social-networks-) | [📬 Contact](#-contact-)  
 
 ---
 
