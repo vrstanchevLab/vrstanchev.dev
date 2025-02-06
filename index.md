@@ -81,8 +81,6 @@ My primary programming languages:
 - 🏹 **Assembly (RISC-V, x86, ARM)**  
 - ⚙️ **C (low-level systems, embedded)**  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrstanchevLab&langs_count=2&layout=compact&theme=radical)  
-
 ---
 
 ## ❤️ Support My Work  
