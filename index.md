@@ -113,7 +113,7 @@ Stay connected & **grow the community**:
 - 🐦 **Twitter/X**: [@vrstanchev](https://twitter.com/vrstanchev)  
 - 📸 **Instagram**: [@vrstanchev](https://www.instagram.com/vrstanchev/)  
 - 🔗 **LinkedIn**: [vrstanchev](https://www.linkedin.com/in/vrstanchev)  
-- 💖 **Patreon**: [Support Me](https://www.patreon.com/vrstanchev)  
+- 💖 **Patreon**: [vrstanchev](https://www.patreon.com/vrstanchev)  
 
 🚀 Let’s **build a global open-source movement**!  
 
