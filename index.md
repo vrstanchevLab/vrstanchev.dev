@@ -107,12 +107,13 @@ A **hands-on assembly learning platform** built for real-world **low-level progr
 ## 📢 Social Networks  
 
 Stay connected & **grow the community**:  
+- 🎮 **Twitch**: [@vrstanchev](https://www.twitch.tv/vrstanchev)  
+- 🎬 **YouTube**: [@vrstanchev](https://www.youtube.com/@vrstanchev)  
+- 🔥 **Kick**: [vrstanchev](https://kick.com/vrstanchev)  
 - 🐦 **Twitter/X**: [@vrstanchev](https://twitter.com/vrstanchev)  
 - 📸 **Instagram**: [@vrstanchev](https://www.instagram.com/vrstanchev/)  
-- 🎮 **Kick**: [vrstanchev](https://kick.com/vrstanchev)  
-- 🎥 **YouTube**: [@vrstanchev](https://www.youtube.com/@vrstanchev)  
-- 💼 **LinkedIn**: [vrstanchev](https://www.linkedin.com/in/vrstanchev)  
-- ❤️ **Patreon**: [Support Me](https://www.patreon.com/vrstanchev)  
+- 🔗 **LinkedIn**: [vrstanchev](https://www.linkedin.com/in/vrstanchev)  
+- 💖 **Patreon**: [Support Me](https://www.patreon.com/vrstanchev)  
 
 🚀 Let’s **build a global open-source movement**!  
 
