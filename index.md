@@ -1,9 +1,10 @@
 ---
-title: vrstanchev - Low-Level Programming, Assembly, RISC-V & Open-Source Development
-description: vrstanchev.dev is your go-to resource for low-level development, RISC-V programming, assembly, and open-source software. Learn about iOS development on BSD, Linux tools, Vim tricks, and more.
-keywords: Linux tools, low-level development, assembly programming, RISC-V, Vim, iOS, BSD, aShell, BashShell, open-source, terminal hacks, systems programming, C programming, embedded systems, tech community
+title: vrstanchev - Master Low-Level Programming, RISC-V, Assembly, iOS Dev & Open-Source Tools
+description: Unlock the world of low-level programming with vrstanchev.dev! Dive into RISC-V, assembly, iOS development on BSD, and powerful open-source tools. Learn Linux tricks, Vim hacks, and get exclusive insights into systems programming and embedded development. Join a growing tech community of coders, makers, and creators!
+keywords: viral programming tutorials, low-level programming, RISC-V assembly, iOS BSD development, open-source projects, Linux hacks, Vim tips, systems programming, embedded systems, tech community, C programming, terminal tips, developer hacks, open-source software, viral tech videos
 author: vrstanchev
 ---
+
 # Welcome to **vrstanchevLab** 🌍🔥  
 
 🚀 Dive into **cutting-edge coding**, epic **live streams**, and game-changing **open-source projects**.  
