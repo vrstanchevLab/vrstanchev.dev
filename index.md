@@ -1,8 +1,8 @@
 ---
-title: Vrstanchev - Low-Level Programming, Assembly, RISC-V & Open-Source Development
-description: Vrstanchev.dev is your go-to resource for low-level development, RISC-V programming, assembly, and open-source software. Learn about iOS development on BSD, Linux tools, Vim tricks, and more.
-keywords: Linux tools, low-level development, assembly programming, RISC-V, Vim, iOS, BSD, aShell, BinSh, open-source, terminal hacks, systems programming, C programming, embedded systems, tech community
-author: Vrstanchev
+title: vrstanchev - Low-Level Programming, Assembly, RISC-V & Open-Source Development
+description: vrstanchev.dev is your go-to resource for low-level development, RISC-V programming, assembly, and open-source software. Learn about iOS development on BSD, Linux tools, Vim tricks, and more.
+keywords: Linux tools, low-level development, assembly programming, RISC-V, Vim, iOS, BSD, aShell, BashShell, open-source, terminal hacks, systems programming, C programming, embedded systems, tech community
+author: vrstanchev
 ---
 # Welcome to **vrstanchevLab** 🌍🔥  
 
