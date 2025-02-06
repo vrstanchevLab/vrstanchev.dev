@@ -75,6 +75,14 @@ I go live **nightly at 7 PM EEST** covering:
 
 ---
 
+## 📊 Top Languages  
+
+Check out my most-used programming languages based on GitHub activity:  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrstanchevLab&layout=compact&theme=radical)  
+
+---
+
 ## ❤️ Support My Work  
 
 Help fuel the **open-source revolution**!  
@@ -119,4 +127,4 @@ Got an idea? Collaboration? Let’s make it happen:
 
 ---
 
-🔥 **Follow, share & let’s code the future!** 🚀🌍🔥
+🔥 **Follow, share & let’s code the future!** 🚀🌍🔥  
