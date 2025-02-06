@@ -77,9 +77,11 @@ I go live **nightly at 7 PM EEST** covering:
 
 ## 📊 Top Languages  
 
-Check out my most-used programming languages based on GitHub activity:  
+My primary programming languages:  
+- 🏹 **Assembly (RISC-V, x86, ARM)**  
+- ⚙️ **C (low-level systems, embedded)**  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrstanchevLab&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrstanchevLab&langs_count=2&layout=compact&theme=radical)  
 
 ---
 
