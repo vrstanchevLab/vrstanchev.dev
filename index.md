@@ -29,12 +29,12 @@ I specialize in **RISC-V assembly**, **iOS development on BSD**, and **open-sour
 - Building **open-source projects** that **matter** to the tech community  
 
 ---
-
-## 🛠 Tools  
-
-My essential setup for **low-level programming**:  
+## License 📜
 [![GPL License](https://img.shields.io/badge/License-GPL%20v3-blue)](https://www.gnu.org/licenses/gpl-3.0)
 [![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9C%94-brightgreen)](https://opensource.org/)
+---
+## 🛠 Tools  
+My essential setup for **low-level programming**:  
 [![iOS](https://img.shields.io/badge/OS-iOS%20(BSD%20based)-blue)](https://www.apple.com/ios/)
 [![a-Shell](https://img.shields.io/badge/Shell-a--Shell%20(UNIX%20reimagined)-green)](https://github.com/waytoolong/a-Shell)
 [![Shell](https://img.shields.io/badge/Shell-%2Fbin%2Fsh-yellow)](https://man7.org/linux/man-pages/man1/sh.1.html)
