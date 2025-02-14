@@ -15,9 +15,8 @@ Let's push the boundaries of tech **together**!
   <link rel="icon" href="vrs.ico" type="image/x-icon">
 </head>
 
-
 ## 📌 Navigation  
-[🏠 Home](#welcome-to-vrstanchevlab-) | [👤 About](#-about-me) | [🛠 Tools](#-tools) | [📅 Live Stream](#-live-stream-schedule) | [📊 Top Languages](#-top-languages) | [🌟 ASMLab](#-featured-project-asmlab) | [❤️ Support](#-support-my-work) |[🎥 Videos](#-live-streams--videos) | [📢 Socials](#-social-networks) | [📬 Contact](#-contact)  
+[🏠 Home](#welcome-to-vrstanchevlab-) | [👤 About](#-about-me) | [🛠 Tools](#-tools) | [📅 Live Stream](#-live-stream-schedule) | [📊 Top Languages](#-top-languages) | [🌟 ASMLab](#-featured-project-asmlab) | [❤️ Support](#-support-my-work) | [🎥 Videos](#-live-streams--videos) | [📢 Socials](#-social-networks) | [📬 Contact](#-contact)  
 
 ---
 
@@ -35,10 +34,12 @@ Hey, I’m **vrstanchev** – a **low-level programming enthusiast**, **open-sou
 ## 🛠 Tools  
 
 My essential setup:  
-- **OS**: iOS (BSD-based) 💻  
-- **Shell**: a-Shell (UNIX reimagined)  
-- **Interpreter**: `/bin/sh` 🔥  
-- **Editor**: Vim (because real devs don’t need a mouse)  
+[![iOS](https://img.shields.io/badge/OS-iOS%20(BSD%20based)-blue)](https://www.apple.com/ios/)
+[![a-Shell](https://img.shields.io/badge/Shell-a--Shell%20(UNIX%20reimagined)-green)](https://github.com/waytoolong/a-Shell)
+[![Shell](https://img.shields.io/badge/Shell-%2Fbin%2Fsh-yellow)](https://man7.org/linux/man-pages/man1/sh.1.html)
+[![Vim](https://img.shields.io/badge/Editor-Vim%20(terminal%20based)-blueviolet)](https://www.vim.org/)
+[![Linux](https://img.shields.io/badge/Platform-Linux%20(UNIX%20tools)-orange)](https://www.kernel.org/)
+[![C](https://img.shields.io/badge/Language-C%20(embedded%20systems)-lightgrey)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 ---
 
@@ -134,4 +135,4 @@ Got an idea? Collaboration? Let’s make it happen:
 
 ---
 
-🔥 **Follow, share & let’s code the future!** 🚀🌍🔥  
+🔥 **Follow, share & let’s code the future!** 🚀🌍🔥
