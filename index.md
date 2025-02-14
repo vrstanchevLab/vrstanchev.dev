@@ -1,19 +1,16 @@
 ---
-title: vrstanchev - Master Low-Level Programming, RISC-V, Assembly, iOS Dev & Open-Source Tools
-description: Unlock the world of low-level programming with vrstanchev.dev! Dive into RISC-V, assembly, iOS development on BSD, and powerful open-source tools. Learn Linux tricks, Vim hacks, and get exclusive insights into systems programming and embedded development. Join a growing tech community of coders, makers, and creators!
-keywords: viral programming tutorials, low-level programming, RISC-V assembly, iOS BSD development, open-source projects, Linux hacks, Vim tips, systems programming, embedded systems, tech community, C programming, terminal tips, developer hacks, open-source software, viral tech videos
-author: vrstanchev
+title: **vrstanchev - Master Low-Level Programming, RISC-V, Assembly, iOS Development & Open-Source Tools**
+description: Unlock the world of **low-level programming** with **vrstanchev.dev**! Dive into **RISC-V**, **assembly**, **iOS development on BSD**, and powerful **open-source tools**. Learn **Linux tricks**, **Vim hacks**, and get exclusive insights into **systems programming** and **embedded development**. Join a growing tech community of **coders**, **makers**, and **creators**! #vrstanchev #RISC-V #LowLevelProgramming
+keywords: **viral programming tutorials**, **low-level programming**, **RISC-V assembly**, **iOS BSD development**, **open-source projects**, **Linux hacks**, **Vim tips**, **systems programming**, **embedded systems**, **tech community**, **C programming**, **terminal tips**, **developer hacks**, **open-source software**, **viral tech videos**
+author: **vrstanchev**
 ---
 
 # Welcome to **vrstanchevLab** 🌍🔥  
 
-🚀 Dive into **cutting-edge coding**, epic **live streams**, and game-changing **open-source projects**.  
-Let's push the boundaries of tech **together**!  
+🚀 Dive into **cutting-edge coding**, epic **live streams**, and game-changing **open-source projects** by **vrstanchev**.  
+Let's push the boundaries of **low-level programming** **together**!  
 
 ---
-<head>
-  <link rel="icon" href="vrs.ico" type="image/x-icon">
-</head>
 
 ## 📌 Navigation  
 [🏠 Home](#welcome-to-vrstanchevlab-) | [👤 About](#-about-me) | [🛠 Tools](#-tools) | [📅 Live Stream](#-live-stream-schedule) | [📊 Top Languages](#-top-languages) | [🌟 ASMLab](#-featured-project-asmlab) | [❤️ Support](#-support-my-work) | [🎥 Videos](#-live-streams--videos) | [📢 Socials](#-social-networks) | [📬 Contact](#-contact)  
@@ -21,19 +18,21 @@ Let's push the boundaries of tech **together**!
 ---
 
 ## 👤 About Me  
-![vrs](vrs.png)
+![vrstanchev](vrs.png)
 
-Hey, I’m **vrstanchev** – a **low-level programming enthusiast**, **open-source builder**, and **live streamer**.  
-### 🔥 What I Do  
-- Mastering **RISC-V Assembly** & **iOS development on BSD**  
-- Exploring **Linux, Vim**, and **UNIX tools**  
-- Building **open-source projects** that **matter**  
+Hey, I’m **vrstanchev**, a **low-level programming** enthusiast, **open-source builder**, and **live streamer**.  
+I specialize in **RISC-V assembly**, **iOS development on BSD**, and **open-source projects**.  
+
+### 🔥 What I Do
+- Mastering **RISC-V Assembly**, **iOS development on BSD**, and **low-level systems programming**  
+- Exploring **Linux**, **Vim**, and **UNIX tools**  
+- Building **open-source projects** that **matter** to the tech community  
 
 ---
 
 ## 🛠 Tools  
 
-My essential setup:  
+My essential setup for **low-level programming**:  
 [![iOS](https://img.shields.io/badge/OS-iOS%20(BSD%20based)-blue)](https://www.apple.com/ios/)
 [![a-Shell](https://img.shields.io/badge/Shell-a--Shell%20(UNIX%20reimagined)-green)](https://github.com/waytoolong/a-Shell)
 [![Shell](https://img.shields.io/badge/Shell-%2Fbin%2Fsh-yellow)](https://man7.org/linux/man-pages/man1/sh.1.html)
@@ -45,9 +44,9 @@ My essential setup:
 
 ## 📅 Live Stream Schedule  
 
-I go live **nightly at 7 PM EEST** covering:  
+I go live **nightly at 7 PM EEST** to discuss:  
 - **RISC-V Assembly** development 🚀  
-- **Open-source tools** for iOS & Linux  
+- **Open-source tools** for **iOS** & **Linux**  
 - **Advanced Vim tricks**, **terminal hacks**, and more  
 
 📺 **Watch me on:**  
