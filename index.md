@@ -34,17 +34,26 @@ I specialize in **RISC-V assembly**, **iOS development on BSD**, and **open-sour
 [![GPL License](https://img.shields.io/badge/License-GPL%20v3-blue)](https://www.gnu.org/licenses/gpl-3.0)  
 [![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9C%94-brightgreen)](https://opensource.org/) 💡✨
 
-💻 Join the movement! Contribute, modify, and create! Together, we make software freedom a reality. 🚀  
-📂 Check out the code and make something amazing today! 💥
+💻** Join the movement! Contribute, modify, and create! Together, we make software freedom a reality.** 🚀  
+📂 **Check out the code and make something amazing today! **💥
 ---
-## 🛠 Tools  
-My essential setup for **low-level programming**:  
-[![iOS](https://img.shields.io/badge/OS-iOS%20(BSD%20based)-blue)](https://www.apple.com/ios/)
-[![a-Shell](https://img.shields.io/badge/Shell-a--Shell%20(UNIX%20reimagined)-green)](https://github.com/waytoolong/a-Shell)
-[![Shell](https://img.shields.io/badge/Shell-%2Fbin%2Fsh-yellow)](https://man7.org/linux/man-pages/man1/sh.1.html)
-[![Vim](https://img.shields.io/badge/Editor-Vim%20(terminal%20based)-blueviolet)](https://www.vim.org/)
-[![Linux](https://img.shields.io/badge/Platform-Linux%20(UNIX%20tools)-orange)](https://www.kernel.org/)
-[![C](https://img.shields.io/badge/Language-C%20(embedded%20systems)-lightgrey)](https://en.wikipedia.org/wiki/C_(programming_language))
+## Tools 🛠️✨ Let's Create Magic! 🎨🚀
+
+[![iOS](https://img.shields.io/badge/OS-iOS%20(BSD%20based)-blue)](https://www.apple.com/ios/) 🍏  
+[![a-Shell](https://img.shields.io/badge/Shell-a--Shell%20(UNIX%20reimagined)-green)](https://github.com/waytoolong/a-Shell) 💻  
+[![Shell](https://img.shields.io/badge/Shell-%2Fbin%2Fsh-yellow)](https://man7.org/linux/man-pages/man1/sh.1.html) 🔥  
+[![Vim](https://img.shields.io/badge/Editor-Vim%20(terminal%20based)-blueviolet)](https://www.vim.org/) 🖥️🎯  
+[![Linux](https://img.shields.io/badge/Platform-Linux%20(UNIX%20tools)-orange)](https://www.kernel.org/) 🐧  
+[![C](https://img.shields.io/badge/Language-C%20(embedded%20systems)-lightgrey)](https://en.wikipedia.org/wiki/C_(programming_language)) 🔧
+
+🔥 **Tools that power your creativity!** 🔥  
+💥 **Ready to level up?** These tools are the foundation of epic software creation! 🚀  
+💻 Whether you're building apps, cracking code, or automating your workflow—these tools make it happen! Let's go! 🌟
+
+👨‍💻 **Collaborate** with the best.  
+🎮 **Create** like never before.  
+🛠️ **Build** the future together!
+
 
 ---
 
