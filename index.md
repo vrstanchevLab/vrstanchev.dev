@@ -34,8 +34,8 @@ I specialize in **RISC-V assembly**, **iOS development on BSD**, and **open-sour
 [![GPL License](https://img.shields.io/badge/License-GPL%20v3-blue)](https://www.gnu.org/licenses/gpl-3.0)  
 [![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9C%94-brightgreen)](https://opensource.org/) 💡✨
 
-💻** Join the movement! Contribute, modify, and create! Together, we make software freedom a reality.** 🚀  
-📂 **Check out the code and make something amazing today! **💥
+💻 **Join the movement! Contribute, modify, and create! Together, we make software freedom a reality.** 🚀  
+📂 **Check out the code and make something amazing today!**💥
 ---
 ## Tools 🛠️✨ Let's Create Magic! 🎨🚀
 
