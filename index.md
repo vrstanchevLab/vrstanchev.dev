@@ -44,7 +44,7 @@ I specialize in **RISC-V assembly**, **iOS development on BSD**, and **open-sour
 [![Shell](https://img.shields.io/badge/Shell-%2Fbin%2Fsh-yellow)](https://man7.org/linux/man-pages/man1/sh.1.html) 🔥  
 [![Vim](https://img.shields.io/badge/Editor-Vim%20(terminal%20based)-blueviolet)](https://www.vim.org/) 🖥️🎯  
 [![Linux](https://img.shields.io/badge/Platform-Linux%20(UNIX%20tools)-orange)](https://www.kernel.org/) 🐧  
-[![C](https://img.shields.io/badge/Language-C%20(embedded%20systems)-lightgrey)](https://en.wikipedia.org/wiki/C_(programming_language)) 🔧
+[![C](https://img.shields.io/badge/Language-C%20(embedded%20systems)-lightgrey)](https://en.wikipedia.org/wiki/C_(programming_language)) 🔧  
 [![ASM](https://img.shields.io/badge/Language-ASM%20(Assembly)-darkblue)](https://en.wikipedia.org/wiki/Assembly_language) 💥  
 🔥 **Tools that power your creativity!** 🔥  
 💥 **Ready to level up?** These tools are the foundation of epic software creation! 🚀  
