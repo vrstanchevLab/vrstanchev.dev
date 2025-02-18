@@ -42,10 +42,24 @@ I have a strong academic background in **software engineering** and **computer s
 
 - **B.Sc. in Software Engineering** – *Plovdiv University Paisii Hilendarski*  
 - **M.Sc. in Computer Systems & Technologies** – *Technical University of Sofia – Plovdiv Branch*  
-- **Certified RISC-V Developer** – Advanced expertise in **RISC-V assembly & architecture**  
-- **UNIX/Linux Systems Expert** – Deep knowledge of **BSD-based systems & open-source tools**  
 
 💡 **Blending theory with real-world development** to push the boundaries of **low-level programming**! 🚀  
+
+---
+
+## 🛠 **Tools**  
+
+🔥 **The tools that power my workflow!** 🔥  
+
+[![iOS](https://img.shields.io/badge/OS-iOS%20(BSD%20based)-blue)](https://www.apple.com/ios/) 🍏  
+[![a-Shell](https://img.shields.io/badge/Shell-a--Shell%20(UNIX%20reimagined)-green)](https://github.com/waytoolong/a-Shell) 💻  
+[![Shell](https://img.shields.io/badge/Shell-%2Fbin%2Fsh-yellow)](https://man7.org/linux/man-pages/man1/sh.1.html) 🔥  
+[![Vim](https://img.shields.io/badge/Editor-Vim%20(terminal%20based)-blueviolet)](https://www.vim.org/) 🖥️🎯  
+[![Linux](https://img.shields.io/badge/Platform-Linux%20(UNIX%20tools)-orange)](https://www.kernel.org/) 🐧  
+[![C](https://img.shields.io/badge/Language-C%20(embedded%20systems)-lightgrey)](https://en.wikipedia.org/wiki/C_(programming_language)) 🔧  
+[![ASM](https://img.shields.io/badge/Language-ASM%20(Assembly)-darkblue)](https://en.wikipedia.org/wiki/Assembly_language) 💥  
+
+💥 **Ready to level up?** These tools are the foundation of epic software creation! 🚀  
 
 ---
 
@@ -60,8 +74,6 @@ Stay connected & **grow the community**:
 - 📸 **Instagram**: [@vrstanchev](https://www.instagram.com/vrstanchev/)  
 - 🔗 **LinkedIn**: [vrstanchev](https://www.linkedin.com/in/vrstanchev)  
 - 💖 **Patreon**: [vrstanchev](https://www.patreon.com/vrstanchev)  
-
-🚀 Let’s **build a global open-source movement**!  
 
 ---
 
@@ -89,24 +101,10 @@ I go live **nightly at 7 PM EEST** to discuss:
     allowfullscreen>
 </iframe>
 
-### 📺 **Latest YouTube Video**  
-
-<iframe
-    width="640"
-    height="360"
-    src="https://www.youtube.com/embed/iWKQJDJSvQ0"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-</iframe>
-
 ---
 
 ## 📊 **Top Languages**  
 
-My primary programming languages:  
 - 🏹 **Assembly (RISC-V, x86, ARM)**  
 - ⚙️ **C (low-level systems, embedded)**  
 
@@ -114,7 +112,6 @@ My primary programming languages:
 
 ## ❤️ **Support My Work**  
 
-Help fuel the **open-source revolution**!  
 Your support keeps groundbreaking projects alive.  
 
 ![Support QR Code](qr.png)  
@@ -126,9 +123,6 @@ Every bit counts—let’s **change the world** together! 🙌
 ## 🌟 **Featured Project: [ASMLab](https://github.com/vrstanchevLab/ASMLab)**  
 
 A **hands-on assembly learning platform** built for real-world **low-level programming**.  
-- 📖 Deep-dive into **RISC-V assembly**  
-- 🛠 Real-world **code examples** & resources  
-- 🚀 Build the **future of assembly programming**  
 
 🔗 **GitHub**: [vrstanchevLab/ASMLab](https://github.com/vrstanchevLab/ASMLab)  
 
