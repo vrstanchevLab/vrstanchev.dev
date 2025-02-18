@@ -19,7 +19,7 @@ author: **vrstanchev**
 ---
 
 ## 📌 Navigation  
-[🏠 Home](#welcome-to-vrstanchevlab-) | [👤 About](#-about-me) | [🛠 Tools](#-tools) | [📅 Live Stream](#-live-stream-schedule) | [📊 Top Languages](#-top-languages) | [🌟 ASMLab](#-featured-project-asmlab) | [❤️ Support](#-support-my-work) | [🎥 Videos](#-live-streams--videos) | [📢 Socials](#-social-networks) | [📬 Contact](#-contact)  
+[🏠 Home](#welcome-to-vrstanchevlab-) | [👤 About](#-about-me) | [📚 Courses](#-courses) | [🎓 Degrees & Certifications](#-degrees--certifications) | [🛠 Tools](#-tools) | [📅 Live Stream](#-live-stream-schedule) | [📊 Top Languages](#-top-languages) | [🌟 ASMLab](#-featured-project-asmlab) | [❤️ Support](#-support-my-work) | [🎥 Videos](#-live-streams--videos) | [📢 Socials](#-social-networks) | [📬 Contact](#-contact)  
 
 ---
 
@@ -29,10 +29,23 @@ author: **vrstanchev**
 Hey, I’m **vrstanchev**, a **low-level programming** enthusiast, **open-source builder**, and **live streamer**.  
 I specialize in **RISC-V assembly**, **iOS development on BSD**, and **open-source projects**.  
 
-### 🔥 What I Do
+### 🔥 What I Do  
 - Mastering **RISC-V Assembly**, **iOS development on BSD**, and **low-level systems programming**  
 - Exploring **Linux**, **Vim**, and **UNIX tools**  
 - Building **open-source projects** that **matter** to the tech community  
+
+---
+
+## 📚 **Courses**  
+
+📚 **Free Programming Courses (CC-SA Licensed)**  
+Explore **Assembly, RISC-V, C, Linux tools, and more!**  
+
+🎥 **Watch for free on YouTube**: [@vrstanchev](https://youtube.com/@vrstanchev)  
+
+🏆 **Get Certified!**  
+Want an official **certificate**? Enroll in my courses on **Udemy**:  
+🔗 [Udemy Profile](https://www.udemy.com/user/vrstanchev)  
 
 ---
 
@@ -59,8 +72,6 @@ I have a strong academic background in **software engineering** and **computer s
 [![C](https://img.shields.io/badge/Language-C%20(embedded%20systems)-lightgrey)](https://en.wikipedia.org/wiki/C_(programming_language)) 🔧  
 [![ASM](https://img.shields.io/badge/Language-ASM%20(Assembly)-darkblue)](https://en.wikipedia.org/wiki/Assembly_language) 💥  
 
-💥 **Ready to level up?** These tools are the foundation of epic software creation! 🚀  
-
 ---
 
 ## 📢 **Social Networks**  
@@ -77,57 +88,6 @@ Stay connected & **grow the community**:
 
 ---
 
-## 📅 **Live Stream Schedule**  
-
-I go live **nightly at 7 PM EEST** to discuss:  
-- **RISC-V Assembly** development 🚀  
-- **Open-source tools** for **iOS** & **Linux**  
-- **Advanced Vim tricks**, **terminal hacks**, and more  
-
-📺 **Watch me on:**  
-- 🎮 [Twitch](https://www.twitch.tv/vrstanchev)  
-- 📹 [YouTube Live](https://www.youtube.com/@vrstanchev/live)  
-
----
-
-## 🎥 **Live Streams & Videos**  
-
-### 🔴 **Watch Me Live on Twitch!**  
-
-<iframe
-    src="https://player.twitch.tv/?channel=vrstanchev&muted=true&parent=vrstanchev.dev"
-    height="360"
-    width="640"
-    allowfullscreen>
-</iframe>
-
----
-
-## 📊 **Top Languages**  
-
-- 🏹 **Assembly (RISC-V, x86, ARM)**  
-- ⚙️ **C (low-level systems, embedded)**  
-
----
-
-## ❤️ **Support My Work**  
-
-Your support keeps groundbreaking projects alive.  
-
-![Support QR Code](qr.png)  
-
-Every bit counts—let’s **change the world** together! 🙌  
-
----
-
-## 🌟 **Featured Project: [ASMLab](https://github.com/vrstanchevLab/ASMLab)**  
-
-A **hands-on assembly learning platform** built for real-world **low-level programming**.  
-
-🔗 **GitHub**: [vrstanchevLab/ASMLab](https://github.com/vrstanchevLab/ASMLab)  
-
----
-
 ## 📬 **Contact**  
 
 📧 **Email**: [hello@vrstanchev.dev](mailto:hello@vrstanchev.dev)  
@@ -135,3 +95,4 @@ A **hands-on assembly learning platform** built for real-world **low-level progr
 ---
 
 🔥 **Follow, share & let’s code the future!** 🚀🌍🔥  
+
