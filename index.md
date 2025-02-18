@@ -75,6 +75,7 @@ I have a strong academic background in **software engineering** and **computer s
 [![Git](https://img.shields.io/badge/Version%20Control-Git%20-blue)](https://git-scm.com/) 🧑‍💻  
 [![GitHub](https://img.shields.io/badge/GitHub-vrstanchev%20-%23121011)](https://github.com/vrstanchev) 🐙  
 [![i3wm](https://img.shields.io/badge/Window%20Manager-i3wm%20-9b59b6)](https://i3wm.org/) 🔲  
+[![Graphviz](https://img.shields.io/badge/Graphviz-Graphviz%20-%23ff0000)](https://graphviz.gitlab.io/) 📊  
 
 ---
 
