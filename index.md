@@ -49,29 +49,23 @@ I have a strong academic background in **software engineering** and **computer s
 
 ---
 
-## License 📜🚀 Let's Build Together! 🌍
+## 📢 **Social Networks**  
 
-[![GPL License](https://img.shields.io/badge/License-GPL%20v3-blue)](https://www.gnu.org/licenses/gpl-3.0)  
-[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9C%94-brightgreen)](https://opensource.org/) 💡✨  
+Stay connected & **grow the community**:  
 
-💻 Join the movement! Contribute, modify, and create! Together, we make software freedom a reality. 🚀  
-📂 Check out the code and make something amazing today! 💥  
+- 🎮 **Twitch**: [@vrstanchev](https://www.twitch.tv/vrstanchev)  
+- 🎬 **YouTube**: [@vrstanchev](https://www.youtube.com/@vrstanchev)  
+- 🔥 **Kick**: [vrstanchev](https://kick.com/vrstanchev)  
+- 🐦 **Twitter/X**: [@vrstanchev](https://twitter.com/vrstanchev)  
+- 📸 **Instagram**: [@vrstanchev](https://www.instagram.com/vrstanchev/)  
+- 🔗 **LinkedIn**: [vrstanchev](https://www.linkedin.com/in/vrstanchev)  
+- 💖 **Patreon**: [vrstanchev](https://www.patreon.com/vrstanchev)  
 
----
-
-## Tools 🛠️✨ Let's Create Magic! 🎨🚀
-
-[![iOS](https://img.shields.io/badge/OS-iOS%20(BSD%20based)-blue)](https://www.apple.com/ios/) 🍏  
-[![a-Shell](https://img.shields.io/badge/Shell-a--Shell%20(UNIX%20reimagined)-green)](https://github.com/waytoolong/a-Shell) 💻  
-[![Shell](https://img.shields.io/badge/Shell-%2Fbin%2Fsh-yellow)](https://man7.org/linux/man-pages/man1/sh.1.html) 🔥  
-[![Vim](https://img.shields.io/badge/Editor-Vim%20(terminal%20based)-blueviolet)](https://www.vim.org/) 🖥️🎯  
-[![Linux](https://img.shields.io/badge/Platform-Linux%20(UNIX%20tools)-orange)](https://www.kernel.org/) 🐧  
-[![C](https://img.shields.io/badge/Language-C%20(embedded%20systems)-lightgrey)](https://en.wikipedia.org/wiki/C_(programming_language)) 🔧  
-[![ASM](https://img.shields.io/badge/Language-ASM%20(Assembly)-darkblue)](https://en.wikipedia.org/wiki/Assembly_language) 💥  
+🚀 Let’s **build a global open-source movement**!  
 
 ---
 
-## 📅 Live Stream Schedule  
+## 📅 **Live Stream Schedule**  
 
 I go live **nightly at 7 PM EEST** to discuss:  
 - **RISC-V Assembly** development 🚀  
@@ -84,7 +78,7 @@ I go live **nightly at 7 PM EEST** to discuss:
 
 ---
 
-## 🎥 Live Streams & Videos  
+## 🎥 **Live Streams & Videos**  
 
 ### 🔴 **Watch Me Live on Twitch!**  
 
@@ -110,7 +104,7 @@ I go live **nightly at 7 PM EEST** to discuss:
 
 ---
 
-## 📊 Top Languages  
+## 📊 **Top Languages**  
 
 My primary programming languages:  
 - 🏹 **Assembly (RISC-V, x86, ARM)**  
@@ -118,7 +112,7 @@ My primary programming languages:
 
 ---
 
-## ❤️ Support My Work  
+## ❤️ **Support My Work**  
 
 Help fuel the **open-source revolution**!  
 Your support keeps groundbreaking projects alive.  
@@ -129,7 +123,7 @@ Every bit counts—let’s **change the world** together! 🙌
 
 ---
 
-## 🌟 Featured Project: [ASMLab](https://github.com/vrstanchevLab/ASMLab)  
+## 🌟 **Featured Project: [ASMLab](https://github.com/vrstanchevLab/ASMLab)**  
 
 A **hands-on assembly learning platform** built for real-world **low-level programming**.  
 - 📖 Deep-dive into **RISC-V assembly**  
@@ -140,13 +134,7 @@ A **hands-on assembly learning platform** built for real-world **low-level progr
 
 ---
 
-## 📢 Social Networks  
-
-🚀 Let’s **build a global open-source movement**!  
-
----
-
-## 📬 Contact  
+## 📬 **Contact**  
 
 📧 **Email**: [hello@vrstanchev.dev](mailto:hello@vrstanchev.dev)  
 
