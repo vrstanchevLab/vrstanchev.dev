@@ -19,7 +19,7 @@ author: **vrstanchev**
 ---
 
 ## 📌 Navigation  
-[🏠 Home](#welcome-to-vrstanchevlab-) | [👤 About](#-about-me) | [📚 Courses](#-courses) | [🎓 Degrees & Certifications](#-degrees--certifications) | [🛠 Tools](#-tools) | [📅 Live Stream](#-live-stream-schedule) | [📊 Top Languages](#-top-languages) | [🌟 ASMLab](#-featured-project-asmlab) | [❤️ Support](#-support-my-work) | [🎥 Videos](#-live-streams--videos) | [📢 Socials](#-social-networks) | [📬 Contact](#-contact)  
+[🏠 Home](#welcome-to-vrstanchevlab-) | [👤 About](#-about-me) | [📚 Courses](#-courses) | [🎓 Degrees](#-degrees) | [🛠 Tools](#-tools) | [📅 Live Stream](#-live-stream-schedule) | [📊 Top Languages](#-top-languages) | [🌟 ASMLab](#-featured-project-asmlab) | [❤️ Support](#-support-my-work) | [🎥 Videos](#-live-streams--videos) | [📢 Socials](#-social-networks) | [📬 Contact](#-contact)  
 
 ---
 
@@ -33,6 +33,7 @@ I specialize in **RISC-V assembly**, **iOS development on BSD**, and **open-sour
 - Mastering **RISC-V Assembly**, **iOS development on BSD**, and **low-level systems programming**  
 - Exploring **Linux**, **Vim**, and **UNIX tools**  
 - Building **open-source projects** that **matter** to the tech community  
+- Using **i3wm** to boost productivity with my **tiling window manager**  
 
 ---
 
@@ -49,7 +50,7 @@ Want an official **certificate**? Enroll in my courses on **Udemy**:
 
 ---
 
-## 🎓 **Degrees & Certifications**  
+## 🎓 **Degrees**  
 
 I have a strong academic background in **software engineering** and **computer systems**, combined with hands-on expertise in **low-level programming**:  
 
@@ -71,6 +72,49 @@ I have a strong academic background in **software engineering** and **computer s
 [![Linux](https://img.shields.io/badge/Platform-Linux%20(UNIX%20tools)-orange)](https://www.kernel.org/) 🐧  
 [![C](https://img.shields.io/badge/Language-C%20(embedded%20systems)-lightgrey)](https://en.wikipedia.org/wiki/C_(programming_language)) 🔧  
 [![ASM](https://img.shields.io/badge/Language-ASM%20(Assembly)-darkblue)](https://en.wikipedia.org/wiki/Assembly_language) 💥  
+[![Git](https://img.shields.io/badge/Version%20Control-Git%20-blue)](https://git-scm.com/) 🧑‍💻  
+[![i3wm](https://img.shields.io/badge/Window%20Manager-i3wm%20-9b59b6)](https://i3wm.org/) 🔲  
+
+---
+
+## 📅 **Live Stream Schedule**  
+🔴 **Join my live streams!**  
+- **When**: Nightly at 7 PM EEST  
+- **Where**: [Twitch](https://www.twitch.tv/vrstanchev)  
+
+### **Twitch Player**  
+<iframe src="https://player.twitch.tv/?channel=vrstanchev&parent=vrstanchev.dev" height="400" width="100%" frameborder="0" scrolling="no"></iframe>  
+
+---
+
+## 🎥 **Latest YouTube Video**  
+Watch my latest YouTube video here:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C9USZ5GdmTo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## 📊 **Top Languages**  
+I specialize in the following languages, with a focus on low-level and systems programming:  
+
+- **RISC-V Assembly**  
+- **C**  
+- **Unix Shell (Bash, Zsh, etc.)**  
+- **C/C++** (when required for embedded systems)  
+
+---
+
+## 🌟 **ASMLab** – Featured Project  
+🚀 **ASMLab** is my open-source platform for learning assembly language. It’s designed to help beginners and experienced programmers dive into **RISC-V**, **x86**, and other assembly languages through interactive tutorials, exercises, and resources.  
+
+🔗 [Check it out!](https://github.com/vrstanchev/ASMLab)  
+
+---
+
+## ❤️ **Support My Work**  
+If you love what I do, consider supporting my open-source projects and live streams:  
+
+- 💖 **Patreon**: [Support on Patreon](https://www.patreon.com/vrstanchev)  
+- 💥 **Donate**: [One-time donation](https://www.buymeacoffee.com/vrstanchev)  
 
 ---
 
@@ -94,5 +138,4 @@ Stay connected & **grow the community**:
 
 ---
 
-🔥 **Follow, share & let’s code the future!** 🚀🌍🔥  
-
+🔥 **Follow, share & let’s code the future!** 🚀🌍🔥
