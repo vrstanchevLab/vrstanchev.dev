@@ -5,10 +5,16 @@ keywords: **viral programming tutorials**, **low-level programming**, **RISC-V a
 author: **vrstanchev**
 ---
 
-# Welcome to **vrstanchevLab** 🌍🔥  
+# 🚀 **vrstanchev - Master Low-Level Programming, RISC-V, Assembly, iOS Development & Open-Source Tools**  
 
-🚀 Dive into **cutting-edge coding**, epic **live streams**, and game-changing **open-source projects** by **vrstanchev**.  
-Let's push the boundaries of **low-level programming** **together**!  
+### **Unlock the power of low-level programming!**  
+📌 **RISC-V & Assembly** | 🍏 **iOS on BSD** | 🛠 **Open-Source Projects** | 🖥 **Linux & Vim Hacks**  
+
+🔹 **Learn** systems programming & embedded development  
+🔹 **Code** with the best open-source tools  
+🔹 **Join** a global community of **coders, makers, and creators**  
+
+👉 **Live streams nightly at 7 PM EEST** | [📺 Watch Now](https://www.twitch.tv/vrstanchev)  
 
 ---
 
@@ -29,14 +35,30 @@ I specialize in **RISC-V assembly**, **iOS development on BSD**, and **open-sour
 - Building **open-source projects** that **matter** to the tech community  
 
 ---
+
+## 🎓 **Degrees & Certifications**  
+
+I have a strong academic background in **software engineering** and **computer systems**, combined with hands-on expertise in **low-level programming**:  
+
+- **B.Sc. in Software Engineering** – *Plovdiv University Paisii Hilendarski*  
+- **M.Sc. in Computer Systems & Technologies** – *Technical University of Sofia – Plovdiv Branch*  
+- **Certified RISC-V Developer** – Advanced expertise in **RISC-V assembly & architecture**  
+- **UNIX/Linux Systems Expert** – Deep knowledge of **BSD-based systems & open-source tools**  
+
+💡 **Blending theory with real-world development** to push the boundaries of **low-level programming**! 🚀  
+
+---
+
 ## License 📜🚀 Let's Build Together! 🌍
 
 [![GPL License](https://img.shields.io/badge/License-GPL%20v3-blue)](https://www.gnu.org/licenses/gpl-3.0)  
-[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9C%94-brightgreen)](https://opensource.org/) 💡✨
+[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9C%94-brightgreen)](https://opensource.org/) 💡✨  
 
 💻 Join the movement! Contribute, modify, and create! Together, we make software freedom a reality. 🚀  
-📂 Check out the code and make something amazing today! 💥
+📂 Check out the code and make something amazing today! 💥  
+
 ---
+
 ## Tools 🛠️✨ Let's Create Magic! 🎨🚀
 
 [![iOS](https://img.shields.io/badge/OS-iOS%20(BSD%20based)-blue)](https://www.apple.com/ios/) 🍏  
@@ -46,14 +68,6 @@ I specialize in **RISC-V assembly**, **iOS development on BSD**, and **open-sour
 [![Linux](https://img.shields.io/badge/Platform-Linux%20(UNIX%20tools)-orange)](https://www.kernel.org/) 🐧  
 [![C](https://img.shields.io/badge/Language-C%20(embedded%20systems)-lightgrey)](https://en.wikipedia.org/wiki/C_(programming_language)) 🔧  
 [![ASM](https://img.shields.io/badge/Language-ASM%20(Assembly)-darkblue)](https://en.wikipedia.org/wiki/Assembly_language) 💥  
-🔥 **Tools that power your creativity!** 🔥  
-💥 **Ready to level up?** These tools are the foundation of epic software creation! 🚀  
-💻 Whether you're building apps, cracking code, or automating your workflow—these tools make it happen! Let's go! 🌟
-
-👨‍💻 **Collaborate** with the best.  
-🎮 **Create** like never before.  
-🛠️ **Build** the future together!
-
 
 ---
 
@@ -128,25 +142,14 @@ A **hands-on assembly learning platform** built for real-world **low-level progr
 
 ## 📢 Social Networks  
 
-Stay connected & **grow the community**:  
-- 🎮 **Twitch**: [@vrstanchev](https://www.twitch.tv/vrstanchev)  
-- 🎬 **YouTube**: [@vrstanchev](https://www.youtube.com/@vrstanchev)  
-- 🔥 **Kick**: [vrstanchev](https://kick.com/vrstanchev)  
-- 🐦 **Twitter/X**: [@vrstanchev](https://twitter.com/vrstanchev)  
-- 📸 **Instagram**: [@vrstanchev](https://www.instagram.com/vrstanchev/)  
-- 🔗 **LinkedIn**: [vrstanchev](https://www.linkedin.com/in/vrstanchev)  
-- 💖 **Patreon**: [vrstanchev](https://www.patreon.com/vrstanchev)  
-
 🚀 Let’s **build a global open-source movement**!  
 
 ---
 
 ## 📬 Contact  
 
-Got an idea? Collaboration? Let’s make it happen:  
-- 📧 **Email**: [hello@vrstanchev.dev](mailto:hello@vrstanchev.dev)  
-- 🛠 **GitHub**: [vrstanchevLab](https://github.com/vrstanchevLab)  
+📧 **Email**: [hello@vrstanchev.dev](mailto:hello@vrstanchev.dev)  
 
 ---
 
-🔥 **Follow, share & let’s code the future!** 🚀🌍🔥
+🔥 **Follow, share & let’s code the future!** 🚀🌍🔥  
