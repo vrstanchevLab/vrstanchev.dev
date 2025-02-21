@@ -49,7 +49,14 @@ Want an official **certificate**? Enroll in my courses on **Udemy**:
 🔗 [Udemy Profile](https://www.udemy.com/user/vrstanchev)  
 
 ---
+## 🎓 **Live Lessons**  
 
+💡 **Join my interactive live lessons** and get hands-on experience with **low-level programming**, **assembly**, and **open-source tools**!  
+
+📅 **Schedule**: Check my socials for lesson announcements  
+🔗 **Join here**: [Live Lessons on Jitsi](https://meet.jit.si/vrstanchev)  
+
+---
 ## 🎓 **Degrees**  
 
 I have a strong academic background in **software engineering** and **computer systems**, combined with hands-on expertise in **low-level programming**:  
