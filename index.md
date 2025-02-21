@@ -91,7 +91,7 @@ I have a strong academic background in **software engineering** and **computer s
 
 ## 🎥 **Latest YouTube Video**  
 Watch my latest YouTube video here:  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C9USZ5GdmTo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="400" width="100%" src="https://www.youtube.com/embed/C9USZ5GdmTo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -108,7 +108,7 @@ I specialize in the following languages, with a focus on low-level and systems p
 ## 🌟 **ASMLab** – Featured Project  
 🚀 **ASMLab** is my open-source platform for learning assembly language. It’s designed to help beginners and experienced programmers dive into **RISC-V**, **x86**, and other assembly languages through interactive tutorials, exercises, and resources.  
 
-🔗 [Check it out!](https://github.com/vrstanchev/ASMLab)  
+🔗 [Check it out!](https://github.com/vrstanchevlab/ASMLab)  
 
 ---
 
@@ -124,11 +124,11 @@ If you love what I do, consider supporting my open-source projects and live stre
 
 Stay connected & **grow the community**:  
 
-- 🎮 **Twitch**: [@vrstanchev](https://www.twitch.tv/vrstanchev)  
-- 🎬 **YouTube**: [@vrstanchev](https://www.youtube.com/@vrstanchev)  
+- 🎮 **Twitch**: [vrstanchev](https://www.twitch.tv/vrstanchev)  
+- 🎬 **YouTube**: [vrstanchev](https://www.youtube.com/@vrstanchev)  
 - 🔥 **Kick**: [vrstanchev](https://kick.com/vrstanchev)  
-- 🐦 **Twitter/X**: [@vrstanchev](https://twitter.com/vrstanchev)  
-- 📸 **Instagram**: [@vrstanchev](https://www.instagram.com/vrstanchev/)  
+- 🐦 **Twitter/X**: [vrstanchev](https://twitter.com/vrstanchev)  
+- 📸 **Instagram**: [vrstanchev](https://www.instagram.com/vrstanchev/)  
 - 🔗 **LinkedIn**: [vrstanchev](https://www.linkedin.com/in/vrstanchev)  
 - 💖 **Patreon**: [vrstanchev](https://www.patreon.com/vrstanchev)  
 
