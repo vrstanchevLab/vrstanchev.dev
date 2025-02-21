@@ -49,7 +49,7 @@ Want an official **certificate**? Enroll in my courses on **Udemy**:
 🔗 [Udemy Profile](https://www.udemy.com/user/vrstanchev)  
 
 ---
-## 🎓 **Live Lessons**  
+## 🖥️ **Live Lessons**  
 
 💡 **Join my interactive live lessons** and get hands-on experience with **low-level programming**, **assembly**, and **open-source tools**!  
 
