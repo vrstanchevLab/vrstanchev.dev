@@ -76,7 +76,7 @@ I have a strong academic background in **software engineering** and **computer s
 [![a-Shell](https://img.shields.io/badge/Shell-a--Shell%20(UNIX%20reimagined)-green)](https://github.com/waytoolong/a-Shell) 💻  
 [![Shell](https://img.shields.io/badge/Shell-%2Fbin%2Fsh-yellow)](https://man7.org/linux/man-pages/man1/sh.1.html) 🔥  
 [![Vim](https://img.shields.io/badge/Editor-Vim%20(terminal%20based)-blueviolet)](https://www.vim.org/) 🖥️🎯  
-[![Debian](https://img.shields.io/badge/Debian-Debian-%23A81D33)](https://www.debian.org/) 🐧   
+[![GNU/Linux](https://img.shields.io/badge/Debian-Debian-%23A81D33)](https://www.debian.org/) 🐧   
 [![C](https://img.shields.io/badge/Language-C%20(embedded%20systems)-lightgrey)](https://en.wikipedia.org/wiki/C_(programming_language)) 🔧  
 [![ASM](https://img.shields.io/badge/Language-ASM%20(Assembly)-darkblue)](https://en.wikipedia.org/wiki/Assembly_language) 💥   
 [![GCC](https://img.shields.io/badge/GCC-GNU%20Compiler%20-%23f34b7d)](https://gcc.gnu.org/) 🖥️    
