@@ -78,8 +78,8 @@ I have a strong academic background in **software engineering** and **computer s
 [![Vim](https://img.shields.io/badge/Editor-Vim%20(terminal%20based)-blueviolet)](https://www.vim.org/) 🖥️🎯  
 [![Linux](https://img.shields.io/badge/Platform-Linux%20(UNIX%20tools)-orange)](https://www.kernel.org/) 🐧  
 [![C](https://img.shields.io/badge/Language-C%20(embedded%20systems)-lightgrey)](https://en.wikipedia.org/wiki/C_(programming_language)) 🔧  
-[![ASM](https://img.shields.io/badge/Language-ASM%20(Assembly)-darkblue)](https://en.wikipedia.org/wiki/Assembly_language) 💥 
-[![GCC](https://img.shields.io/badge/GCC-GNU%20Compiler%20-%23f34b7d)](https://gcc.gnu.org/) 🖥️  
+[![ASM](https://img.shields.io/badge/Language-ASM%20(Assembly)-darkblue)](https://en.wikipedia.org/wiki/Assembly_language) 💥   
+[![GCC](https://img.shields.io/badge/GCC-GNU%20Compiler%20-%23f34b7d)](https://gcc.gnu.org/) 🖥️    
 [![GDB](https://img.shields.io/badge/GDB-GNU%20Debugger%20-%234a76a8)](https://www.sourceware.org/gdb/) 🐛
 [![Git](https://img.shields.io/badge/Version%20Control-Git%20-blue)](https://git-scm.com/) 🧑‍💻  
 [![GitHub](https://img.shields.io/badge/GitHub-vrstanchev%20-%23121011)](https://github.com/vrstanchev) 🐙  
