@@ -80,7 +80,7 @@ I have a strong academic background in **software engineering** and **computer s
 [![C](https://img.shields.io/badge/Language-C%20(embedded%20systems)-lightgrey)](https://en.wikipedia.org/wiki/C_(programming_language)) 🔧  
 [![ASM](https://img.shields.io/badge/Language-ASM%20(Assembly)-darkblue)](https://en.wikipedia.org/wiki/Assembly_language) 💥   
 [![GCC](https://img.shields.io/badge/GCC-GNU%20Compiler%20-%23f34b7d)](https://gcc.gnu.org/) 🖥️    
-[![GDB](https://img.shields.io/badge/GDB-GNU%20Debugger%20-%234a76a8)](https://www.sourceware.org/gdb/) 🐛
+[![GDB](https://img.shields.io/badge/GDB-GNU%20Debugger%20-%234a76a8)](https://www.sourceware.org/gdb/) 🐛  
 [![Git](https://img.shields.io/badge/Version%20Control-Git%20-blue)](https://git-scm.com/) 🧑‍💻  
 [![GitHub](https://img.shields.io/badge/GitHub-vrstanchev%20-%23121011)](https://github.com/vrstanchev) 🐙  
 [![i3wm](https://img.shields.io/badge/Window%20Manager-i3wm%20-9b59b6)](https://i3wm.org/) 🔲  
