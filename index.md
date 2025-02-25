@@ -84,7 +84,8 @@ I have a strong academic background in **software engineering** and **computer s
 [![Git](https://img.shields.io/badge/Version%20Control-Git%20-blue)](https://git-scm.com/) 🧑‍💻  
 [![GitHub](https://img.shields.io/badge/GitHub-vrstanchev%20-%23121011)](https://github.com/vrstanchev) 🐙  
 [![i3wm](https://img.shields.io/badge/Window%20Manager-i3wm%20-9b59b6)](https://i3wm.org/) 🔲  
-[![LaTeX](https://img.shields.io/badge/LaTeX-LaTeX-%23008080)](https://www.latex-project.org/) 📄
+[![LaTeX](https://img.shields.io/badge/LaTeX-LaTeX-%23008080)](https://www.latex-project.org/) 📄  
+[![Xournal](https://img.shields.io/badge/Xournal-Xournal%2B-%23007ACC)](https://xournalpp.github.io/) ✍️  
 
 ---
 
